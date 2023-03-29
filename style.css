@@ -1,7 +1,12 @@
+*{
+    margin: 0;
+    padding:0;
+}
 header {background-color: brown;
 color: black;
 display: flex;
-justify-content: space-around;}
+justify-content: space-around;
+padding: 24px;}
 .imagem.cabecalho{width: 20%;}
 li{
     display: inline-block;
@@ -14,4 +19,7 @@ padding: 90px 0;
 }
 .escola-imagem{
     width: 20%;
+}
+.escola {
+    background-image: linear-gradient(red,black)
 }
