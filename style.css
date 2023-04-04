@@ -1,25 +1,19 @@
-*{
-    margin: 0;
-    padding:0;
-}
-header {background-color: brown;
+*{margin: 22;
+padding: 22;}
+header {background-color: rgb(247, 3, 3);
 color: black;
 display: flex;
 justify-content: space-around;
-padding: 24px;}
-.imagem.cabecalho{width: 20%;}
-li{
+padding: 22px 0;}
+.cabecalho-imagem{width: 22%;}
+h1{
     display: inline-block;
-    margin: 0 16px;
-    padding: 100px 0;
-    font-size: 24px;
-}
-h1{margin: 0 15px;
-padding: 90px 0;
-}
+    margin: 0 32px;
+    padding: 90px 0;
+font-size: 37px;}
+
+li{}
+
 .escola-imagem{
-    width: 20%;
-}
-.escola {
-    background-image: linear-gradient(red,black)
-}
+    width: 22%;}
+    .escola{background-image: linear-gradient(red,white);}
