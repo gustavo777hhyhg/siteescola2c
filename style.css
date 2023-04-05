@@ -1,5 +1,6 @@
 *{margin: 22;
 padding: 22;}
+body{font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
 header {background-color: rgb(247, 3, 3);
 color: black;
 display: flex;
@@ -15,5 +16,10 @@ font-size: 37px;}
 li{}
 
 .escola-imagem{
-    width: 22%;}
-    .escola{background-image: linear-gradient(red,white);}
+    width: 111%;
+}
+    .escola{background-image: linear-gradient(red,white);
+    display: flex;
+    justify-content: flex-start;
+align-items: center;
+padding: 22px 0;}
