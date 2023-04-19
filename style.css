@@ -31,6 +31,10 @@ padding: 22px 0;}
 {
     text-align: center;
     padding: 50px 0;
-    font-size: 30px;
+    font-size: 50px;
 }
-
+.estudante-icone
+{width: 60px;}
+.estudante-div {
+    text-align: center;
+}
